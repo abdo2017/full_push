@@ -1,0 +1,27 @@
+main{
+    font-size: 0;
+}
+.container{
+    width: 600px;
+    margin:10px;
+    border:1px solid brown;
+}
+
+.box{
+    display: inline-block;
+}
+.box-half{
+    width:50%;
+    height:300px;
+}
+.box-third{
+    width:33.3%;
+    height: 200px;
+}
+.red{
+    background-color: red;
+}
+.yellow{background-color: yellow;}
+.blue{
+    background-color: blue;
+}
